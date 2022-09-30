@@ -1,7 +1,11 @@
 # Prodoku
-Prodoku - Sudoku solver in Prolog, created for Paris VIII University.
+A Sudoku solver in Prolog, created for Paris VIII University.
 
-You can't solve your sudoku puzzle? Not a problem if you have a 4x4 grid or a 9x9 one.
+A 9x9 sudoku grid contains 9 rows and 9 columns, the goal of the game is
+to fill the empty cells with a number from 1 to 9 which must be unique in the row, in the column, and unique in its square of 3x3 cells.
+In other words, a perfect game for Prolog.
+
+This program will solve 4x4 grids and 9x9 ones.
 
 #### Example 1 (4x4):
 ```
