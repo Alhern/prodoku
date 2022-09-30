@@ -1,6 +1,5 @@
 # Prodoku
-Prodoku - Sudoku solver in Prolog
-Made for Paris VIII University.
+Prodoku - Sudoku solver in Prolog, created for Paris VIII University.
 
 You can't solve your sudoku puzzle? Not a problem if you have a 4x4 grid or a 9x9 one.
 
